@@ -21,7 +21,6 @@
         <section id="store-photos">
             <h2>Fotos da Loja</h2>
             <div class="photo-gallery">
-                <img src="imagens/foto1.jpg" alt="Interior da Loja - Vista 1">
                 <img src="imagens/foto2.jpg" alt="Interior da Loja - Vista 2">
                 <img src="imagens/foto3.jpg" alt="Interior da Loja - Vista 3">
             </div>
