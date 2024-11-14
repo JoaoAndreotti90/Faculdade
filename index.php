@@ -27,7 +27,7 @@
             </div>
         </section>
         
-        <section class="menu-options">
+        <section class="menu-ions">
             <h2>Menu de Opções</h2>
             <button id="cadastroBtn">Cadastro</button>
             <button id="vendaBtn">Venda</button>
